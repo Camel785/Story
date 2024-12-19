@@ -1,0 +1,5 @@
+mkdir profil
+ls do szukania w nim
+touch do tworzenia w nim np txt
+rm do usuwania
+ls -a pokazuje nawet hidden things jakie sa w Story
